@@ -1,0 +1,10 @@
+Package: dev.squiddy.pupmodule
+Name: PowerUp CC Module
+Depends: mobilesubstrate, com.opa334.ccsupport, com.kurrtandsquiddy.powerup
+Version: 1.0
+Architecture: iphoneos-arm
+Description: PowerUp Control Center Module
+Depiction: https://repo.squiddy.dev/depictions/ccpup.html
+Maintainer: Brady Holland <squiddytweaks@gmail.com>
+Author: Brady Holland
+Section: Control Center (Modules)
